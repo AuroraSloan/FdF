@@ -10,7 +10,7 @@ static void	init_mlx_win(t_info *info)
 	if (!info->mlx)
 		ft_failed_exit("Connection to X-server failed", NULL);
 	info->win = mlx_new_window(info->mlx, info->win_width,
-			info->win_hight, "fdf_bonus");
+			info->win_hight, "fdf");
 	if (!info->win)
 		exit_failed(info, "Could not create window");
 	info->img.img = mlx_new_image(info->mlx, info->win_width, info->win_hight);
