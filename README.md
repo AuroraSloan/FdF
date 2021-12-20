@@ -21,7 +21,7 @@ Both isometric and parallel views can be accessed any time by pressing ``i`` or 
 #### Parallel
 ![Imgur](https://i.imgur.com/UXsCMyy.png)
 
-The map is also interactive and can be modified with the following controls.
+The image is also interactive and can be modified with the following controls.
 |           | Smaller | Greater |
 |-----------|---------|---------|
 |Scale      |  ``f``  |  ``j``  |
