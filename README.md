@@ -3,7 +3,7 @@
 
 ![pylone.fdf](https://media.giphy.com/media/tb0TaF4rLupZr1rDaj/giphy.gif)
 
- This program reads data points representing elevation from an `.fdf` file and connects the data points with lines ultimately displaying a 3D wiregram representation. 
+ This program reads data points representing elevation from an `.fdf` file and connects the data points with lines, ultimately displaying a 3D wireframe representation. 
  
  There are two available options for formatting an fdf file. 
  
