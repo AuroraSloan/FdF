@@ -7,7 +7,7 @@
  
  There are two available options for formatting an fdf file. 
  
- The simplest version just requires numbers to be written in the file with spaces in between each data point and a new line character for each row of data. 
+ The simplest version requires numbers to be written in the file with spaces in between each data point and a new line character for each row of data. 
  
  The other version includes the option to select a color for each data point. In this case, just write a comma and a the color in hexadecimal represenation right after the data point. 
  
