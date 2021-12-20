@@ -54,8 +54,8 @@ make clean - removes all object files
 make fclean - removes all object files and the executable
 make re - removes all object files and the executable before recompiling the program
 ```
-In order to run the program, run the executable with the .fdf file of your choice.
+In order to run the program, run the executable with the .fdf file of your choice (fdf files are stored in the `maps` directory).
 ```bash
 ./fdf maps/50-4.fdf
 ```
-To exit the program, you can press ``Esc`` or the red X in the top corner
+To exit the program, you can press ``Esc`` or the red X in the top corner of the window
