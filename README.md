@@ -22,3 +22,8 @@ In order to run the program, run the executable with the .fdf file of your choic
 ./fdf maps/50-4.fdf
 ```
 Both isometric and parallel views are availabe and can be accessed by pressing `i` or `p`
+### Isometric
+![Imgur](https://i.imgur.com/5izB50O.png)
+
+### Parallel
+![Imgur](https://i.imgur.com/UXsCMyy.png)
