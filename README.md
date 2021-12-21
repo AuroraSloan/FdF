@@ -1,7 +1,7 @@
 # FdF [![jthompso's 42Project Score](https://badge42.herokuapp.com/api/project/jthompso/FdF)](https://github.com/AuroraSloan/badge42)
 3D wireframe representation project (Fil de Fer)
 
-![pylone.fdf](https://media.giphy.com/media/tb0TaF4rLupZr1rDaj/giphy.gif)
+![pylone2.fdf](https://media.giphy.com/media/znvMs3nbjI6Bs3TqrS/giphy.gif)
 
  This program reads data points representing elevation from an `.fdf` file and connects the data points with lines, ultimately displaying a 3D wireframe representation. 
  
