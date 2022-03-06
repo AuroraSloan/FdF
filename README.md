@@ -1,5 +1,4 @@
-# FdF [![jthompso's 42Project Score](https://badge42.herokuapp.com/api/project/jthompso/FdF)](https://github.com/AuroraSloan/badge42)
-3D wireframe representation project (Fil de Fer)
+# FdF
 
 ![pylone2.fdf](https://media.giphy.com/media/znvMs3nbjI6Bs3TqrS/giphy.gif)
 
