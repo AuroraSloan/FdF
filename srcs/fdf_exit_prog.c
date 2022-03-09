@@ -1,6 +1,6 @@
 #include "../includes/fdf.h"
 #include "../libraries/libft/libft.h"
-#include "../libraries/minilibx-linux/mlx.h"
+#include "../libraries/minilibx_mms/mlx.h"
 #include <unistd.h>
 
 static void	free_memory(t_info *info)

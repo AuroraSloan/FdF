@@ -1,6 +1,6 @@
 #include "../includes/fdf.h"
 #include "../includes/fdf_key_macros.h"
-#include "../libraries/minilibx-linux/mlx.h"
+#include "../libraries/minilibx_mms/mlx.h"
 
 static void	reset_win(t_info *info)
 {

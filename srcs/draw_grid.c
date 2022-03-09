@@ -1,5 +1,5 @@
 #include "../includes/fdf.h"
-#include "../libraries/minilibx-linux/mlx.h"
+#include "../libraries/minilibx_mms/mlx.h"
 
 static t_point	move_right(t_point step)
 {
